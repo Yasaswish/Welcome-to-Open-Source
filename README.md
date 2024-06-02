@@ -285,6 +285,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   </a>
               </td>
               <td align="center">
+                  <a href="https://github.com/dashboard">
+                    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fthrive&psig=AOvVaw3aGSf6s87WQCkfHXixNcWh&ust=1717400245479000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjVvtW0vIYDFQAAAAAdAAAAABAE" width="100px;" alt="Yasaswini Chennupalli"/>
+                    <br />
+                    <sub><b>Yasaswini Chennupalli</b></sub>
+                  </a>
+              </td>
+              <td align="center">
                  <a href="https://github.com/tikul1">
                    <img src="https://avatars.githubusercontent.com/u/81417065?v=4" width="100px;" alt="Hardik Parmar"/>
                    <br />
